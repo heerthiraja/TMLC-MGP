@@ -1,2 +1,2 @@
-Road Traffic Accidents Severity Prediction app
+# Road Traffic Accidents Severity Prediction app
 
